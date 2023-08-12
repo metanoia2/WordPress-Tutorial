@@ -7,4 +7,4 @@ you can check over there.
 **So, here is the list of topic I am gonna cover**r 
 1. [What is WordPress?](https://medium.com/@hope_16/wordpress-tutorial-creating-your-own-blog-portfolio-site-so-on-e230ff1b1793)
 2. [Installing WordPress](https://medium.com/@hope_16/wordpress-tutorial-creating-your-own-blog-portfolio-site-so-on-e230ff1b1793)
-3. [WordPress Terminology]
+3. [WordPress Terminology](https://medium.com/@hope_16/wordpress-terminology-6cfcf20a6fa4)
