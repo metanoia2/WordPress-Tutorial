@@ -1,5 +1,5 @@
-# WordPress-Tutorial(br/>)
-**"Unlocking the Power of Creativity: Your Journey Through WordPress"**(br/>)
+# WordPress-Tutorial
+**"Unlocking the Power of Creativity: Your Journey Through WordPress"**  
 Let's dive into my WordPress Tutorial.
 **WordPress Tutorial: Creating Your Own Blog, Portfolio site so on.** this is my blog on Medium.com 
 you can check over there.
